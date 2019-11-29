@@ -1,9 +1,3 @@
-/*
- * dcmotorspeedcw.cpp
- *
- * Created: 2019-02-18 오후 10:09:04
- * Author :ADC+DC MOTOR
- */ 
 #define F_CPU 16000000L
 #include <avr/io.h>
 #include <avr/interrupt.h>
