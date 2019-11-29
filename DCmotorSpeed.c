@@ -1,9 +1,3 @@
-/*
- * GccApplication14.c
- *
- * Created: 2019-02-09 오전 2:30:29
- * Author : BITDOL
- */ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <avr/interrupt.h>
