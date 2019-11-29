@@ -1,9 +1,3 @@
-/*
- * GccApplication7.c
- *
- * Created: 2019-02-07 오후 5:54:50
- * Author : BITDOL
- */ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
