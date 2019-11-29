@@ -1,9 +1,3 @@
-/*
- * GccApplication13.cpp
- *
- * Created: 2019-02-09 오전 12:53:20
- * Author : BITDOL
- */ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
